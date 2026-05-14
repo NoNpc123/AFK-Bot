@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UnstablePvPClubSpawn.aternos.me
-",
+    "ip": "UnstablePvPClubSpawn.aternos.me",
     "port": "22958",
     "version": "",
     "try-creative": false
